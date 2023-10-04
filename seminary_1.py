@@ -48,4 +48,4 @@ while True:
 
     print("Result: ",calculate(oper_left, oper_right, symbol))
 
-print("Goodbye!")
+print("Goodbye!!")
